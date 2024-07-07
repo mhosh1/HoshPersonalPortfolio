@@ -29,6 +29,7 @@ Welcome to my personal portfolio website! This project showcases my professional
 
 - Web browser (Chrome, Firefox, Safari, etc.)
 - Text editor (VSCode, Sublime Text, etc.)
+- https://hoshswebsite.netlify.app/ 
 
 ### Installation
 
